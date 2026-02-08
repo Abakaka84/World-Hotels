@@ -20,7 +20,7 @@ const hotels = [
 
 // الصفحة الرئيسية
 app.get('/', (req, res) => {
-  res.send('Global Hotels API is running');
+  res.send('World Hotels is running');
 });
 
 // كل الفنادق
